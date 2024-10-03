@@ -3,7 +3,7 @@
 
 
 ### Sobre mim: <h3>
-- 🔭 Residente Serratec (Programa FullStack) 
+- 🔭 Ex-Residente Serratec (Programa FullStack) 
 - 🌱 Estudante de Java ...
 - 🏐 Amante de Vôlei ...
 <div> 
