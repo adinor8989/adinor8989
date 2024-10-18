@@ -1,11 +1,5 @@
 
-# ADINOR ANTÔNIO SANTANNA DE CARVALHO
 
-
-### Sobre mim: <h3>
-- 🔭 Ex-Residente Serratec (Programa FullStack) 
-- 🌱 Estudante de Java ...
-- 🏐 Amante de Vôlei ...
 <div align="center"> 
  
   <a href="https://www.instagram.com/adinorsantanna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
