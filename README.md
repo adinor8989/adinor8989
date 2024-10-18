@@ -2,7 +2,7 @@
 
 <img 
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adinor8989&theme=github_dark" 
-  width="800" height="400" />
+  width="1000" height="400" align="center" />
 
 
 
