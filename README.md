@@ -2,31 +2,21 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&pause=4000&color=00FF00&width=450&height=100&lines=Seja+Bem+Vindo;" alt="Typing SVG" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&pause=4000&color=00FF00&width=450&height=90&lines=Bem+vindo;" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adinor8989&theme=github_dark" width="1000" height="400" alt="GitHub Profile Details" />
+</p>
 
-<div align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adinor8989&theme=github_dark" 
-    width="1000" height="400" alt="GitHub Profile Details"
-  />
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adinor8989&theme=github_dark" alt="Most Used Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adinor8989&theme=github_dark" alt="Repos per Language" />
+</p>
 
-<div align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adinor8989&theme=github_dark" 
-    alt="Most Used Language"
-  />
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adinor8989&theme=github_dark" 
-    alt="Repos per Language"
-  />
-</div>
-
-<div align="center">
+<p align="center">
   <a href="https://www.instagram.com/adinorsantanna/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -36,11 +26,12 @@
   <a href="https://www.linkedin.com/in/adinorsantanna/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,js,nodejs,css,bootstrap,react" alt="Skills Icons" />
   </a>
 </p>
+
 
