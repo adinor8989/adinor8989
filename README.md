@@ -1,4 +1,13 @@
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adinor8989&theme=github_dark)
+
+
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adinor8989&theme=github_dark" 
+  width="800" height="400" />
+
+<img 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adinor8989&theme=github_dark" 
+  width="400" height="200" />
+
 
 
 
