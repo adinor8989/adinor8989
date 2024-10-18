@@ -13,3 +13,4 @@
   <a href="https://www.linkedin.com/in/adinorsantanna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
